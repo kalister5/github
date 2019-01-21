@@ -5,6 +5,11 @@
   text-decoration: underline;
 }
 .search-form {
-	padding-top: 50px;
+	padding-top: 30px;
   align-self: center;
+}
+h5{
+  font-family: 'Dancing Script', cursive;
+  font-size: 54px;
+  text-align: center;
 }
