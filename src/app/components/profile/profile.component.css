@@ -4,11 +4,14 @@
   text-align: center;
   text-decoration: underline;
   text-shadow: 0 0 3px #FF0000;
+  padding-top: 40px;
 }
 .search-form {
 	padding-top: 30px;
   align-self: center;
   padding-left: 30px;
+  padding-bottom: 50px;
+
 }
 h5{
   font-family: 'Dancing Script', cursive;
@@ -16,6 +19,7 @@ h5{
   text-align: center;
   text-shadow: 0 0 3px #FF0000;
   padding-left: 170px;
+  padding-top: 30px;
 
 }
 .imgs {
