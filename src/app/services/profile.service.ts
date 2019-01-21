@@ -6,12 +6,12 @@ import 'rxjs/add/operator/map'
 export class ProfileService {
 
   private username: string;
-  private clientid = 'f9c23f736d6ecbbe42ec';
-  private clientsecret = 'ff510d303934c61f69d04c849d943ba15d7a4940';
+  private clientid = 'c5a1730ce870d69e94e7';
+  private clientsecret = 'aeab2f70b3eabd646a340e98e26644e0b9618a74';
 
   constructor(private http: Http) {
     console.log("service is now ready!");
-    this.username = 'lex-of-pakawa';
+    this.username = 'kalister';
   }
 
   getProfileInfo() {
