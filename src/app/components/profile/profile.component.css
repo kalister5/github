@@ -3,13 +3,29 @@
   font-size: 54px;
   text-align: center;
   text-decoration: underline;
+  text-shadow: 0 0 3px #FF0000;
 }
 .search-form {
 	padding-top: 30px;
   align-self: center;
+  padding-left: 30px;
 }
 h5{
   font-family: 'Dancing Script', cursive;
   font-size: 54px;
   text-align: center;
+  text-shadow: 0 0 3px #FF0000;
+  padding-left: 170px;
+
+}
+.imgs {
+    float: right;
+    width: 100px;
+    height: 100px;
+    margin-left: 2px
+}
+
+.h7 {
+    display:inline ;
+    text-align: center;
 }
