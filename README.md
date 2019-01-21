@@ -1,27 +1,55 @@
-# Github
+# github-project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
+This is an app that lets users search through Github for other users and also view their repositories. This is implemented using the Github API. This app was generated with Angular CLI version 7.1.4.
 
-## Development server
+## Author name
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Abdullahi Mohamaud
 
-## Code scaffolding
+## Project description
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+This is an app that lets users search through Github for other users and also view their repositories. This is implemented using the Github API. This app was generated with Angular CLI version 7.1.4.
 
-## Build
+## Technology used
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+I used HTML to develop the skeleton of the website as well as CSS to design a custom style sheet for the website.I used typescript and angular to make the website functional so that people are able to input information and get feedback .
 
-## Running unit tests
+Target Audience-Everyone.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Known bugs
 
-## Running end-to-end tests
+So far no identified bugs but if you get any contact me on [email](zainkalister@gmail.com).
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Contact information
 
-## Further help
+if anyone has question or wants to contribute to the project the please contact me through #0796303066 or at [email](zainkalister@gmail.com) .
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Project setup installation
+
+1.On GitHub, navigate to the main page of the repository.
+
+2.Under the repository name, click Clone or download.
+
+3.In the Clone with HTTPs section, click  to copy the clone URL for the repository.
+
+4.Open Terminal.
+
+5.Change the current working directory to the location where you want the cloned directory to be made.
+
+6.Type git clone, and then paste the URL you copied in Step 2.
+
+7.Press Enter. Your local clone will be created.
+
+## Live link
+
+https://kalister5.github.io/github/
+
+## Behavior Driven Development
+
+|Behavior|input|output|
+|--------|-----|------|
+|User submits searhes for github profile .|github Username . |Profile of github user |
+
+## Licence
+
+MIT licence. Copyright (c) 2018 Abdillahi mohamud
