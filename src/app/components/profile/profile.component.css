@@ -4,7 +4,7 @@
   text-align: center;
   text-decoration: underline;
   text-shadow: 0 0 3px #FF0000;
-  padding-top: 40px;
+  padding-top: 20px;
 }
 .search-form {
 	padding-top: 30px;
@@ -19,17 +19,22 @@ h5{
   text-align: center;
   text-shadow: 0 0 3px #FF0000;
   padding-left: 170px;
-  padding-top: 30px;
+  padding-top: 5px;
+  padding-right: 150px;
 
 }
 .imgs {
     float: right;
     width: 100px;
-    height: 100px;
-    margin-left: 2px
+    height: 150px;
+    margin-left: 2px ;
+    padding-top: 30px;
+    padding-left: 15px;
 }
 
 .h7 {
-    display:inline ;
+    display: flex;
     text-align: center;
+      padding-left: 490px;
+
 }
